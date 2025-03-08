@@ -19,9 +19,8 @@ body {
 	height: 50px;
 }
 .postcard-header h1 {
-	margin-right: 215px;
-	margin-top: 0;
-	font-size: 23px;
+	width: 10px;
+	margin-right: 310px;
 }
 .postcard-body {
 	display: flex;
@@ -32,8 +31,4 @@ body {
 .body-left,
 .body-right {
 	padding: 3px;
-}
-input {
-	border: none;
-	border-bottom: grey solid;
 }
